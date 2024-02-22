@@ -1,0 +1,17 @@
+{
+    "name": "dmytrotus/laravel-currency-converter",
+    "description": "Simple Currency converter for laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dmytrotus\\LaravelCurrencyConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmytro Tus",
+            "email": "dimatuss1@gmail.com"
+        }
+    ],
+    "require": {}
+}
